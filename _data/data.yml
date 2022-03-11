@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -15,18 +15,18 @@ sidebar:
     email: hello@webjeda.com
     phone: 012 345 6789
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: #do not add http://
     linkedin: 
     xing: 
     github: revertsc
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://www.africau.edu/images/default/sample.pdf #[todo] 이력서pdf 등록
 
     languages:
       - idiom: English
