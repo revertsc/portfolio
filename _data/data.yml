@@ -59,7 +59,7 @@ education:
           - Bullet point
 experiences:
     - role: Android & iOS 개발자
-      time: 2020 - 현재
+      time: 2020 - 현재 (2년)
       company: 와우소프트, 구로구
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -70,7 +70,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: 연구 인턴
-      time: 2019 - 2020
+      time: 2019 - 2020 (1년)
       company: 숭실대학교 소프트웨어학부, 동작구
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
