@@ -37,7 +37,7 @@ sidebar:
       #  link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -46,7 +46,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: 컴퓨터 공학사
+    - degree: 컴퓨터공학사
       university: 숭실대학교 글로벌미래교육원
       time: 2017 - 2019
       details: |
@@ -58,7 +58,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Android/iOS 개발
+    - role: Android & iOS 개발자
       time: 2020 - 현재
       company: 와우소프트, 구로구
       details: |
@@ -69,7 +69,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: 대학원 연구 인턴
+    - role: 연구 인턴
       time: 2019 - 2020
       company: 숭실대학교 소프트웨어학부, 동작구
       details: |
