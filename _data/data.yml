@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: 손세찬
-    tagline: Full Stack Developer
+    tagline: iOS 개발자
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,7 +47,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: 컴퓨터공학사
-      university: 숭실대학교 글로벌미래교육원
+      university: 숭실대학교 전산원
       time: 2017 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -78,8 +78,7 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - AFL fuzzer 개선 연구
 projects:
     title: Projects
     intro: >
